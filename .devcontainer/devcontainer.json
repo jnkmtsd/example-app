@@ -13,7 +13,11 @@
 				"xdebug.php-debug",
 				"bmewburn.vscode-intelephense-client",
 				"ecodes.vscode-phpmd",
-				"sanderronde.phpstan-vscode"
+				"sanderronde.phpstan-vscode",
+				"laravel.vscode-laravel",
+				"eamodio.gitlens",
+				"christian-kohler.path-intellisense",
+				"github.github-vscode-theme"
 			],
 			"settings": {}
 		}
